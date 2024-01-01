@@ -1,0 +1,14 @@
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.deps.json
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.runtimeconfig.json
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.runtimeconfig.dev.json
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.dll
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.1\ProductMicroservice.pdb
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.csproj.CoreCompileInputs.cache
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorAssemblyInfo.cache
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorAssemblyInfo.cs
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.AssemblyInfoInputs.cache
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.AssemblyInfo.cs
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.RazorTargetAssemblyInfo.cache
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.dll
+D:\STUDY\soa\exam-net\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.1\ProductMicroservice.pdb
